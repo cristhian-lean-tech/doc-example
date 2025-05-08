@@ -1,6 +1,10 @@
 # 📘 OpenAPI Documentation Template using Swagger UI + GitHub Pages
 
-This repository serves as a **template** to quickly publish and share your OpenAPI documentation (in JSON or YAML format) using **Swagger UI**, hosted for free via **GitHub Pages**.
+This repository serves as a **template** to quickly publish and share your OpenAPI documentation (in JSON or YAML format) using **Swagger UI**, hosted for free via
+
+eg. https://cristhian-lean-tech.github.io/doc-example/
+
+**GitHub Pages**.
 
 ---
 
